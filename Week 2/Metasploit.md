@@ -59,8 +59,8 @@ search portscan
     
  ### **Choosing the Right Payload:**
 
-         The choice between inline and staged payloads depends on several factors   
-          Including : 
+  
+  #### The choice between inline and staged payloads depends on several factors Including : 
 
 - **Target system configuration:** The target system's network environment and security measures can influence the choice of payload.  
 - **Payload size:** If payload size is a concern, staged payloads may be more suitable.  
