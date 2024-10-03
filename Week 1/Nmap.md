@@ -1,17 +1,17 @@
 # Nmap
 
-\- when you connect to numerous websites at the same time.   
+- when you connect to numerous websites at the same time.   
 Your computer opens up a different, high-numbered port (at random), which it uses for all its communications with the remote server.
 
-\- Every computer has a total of 65535 available ports  
-\- A HTTPS Webservice can be found on port 443  
-\- Windows NETBIOS can be found on port 139
+- Every computer has a total of 65535 available ports  
+- A HTTPS Webservice can be found on port 443  
+- Windows NETBIOS can be found on port 139
 
 * NetBIOS is an acronym for Network Basic Input/Output System. It provides services related to the session layer of the OSI model allowing applications on separate computers to communicate over a local area network.
 
-\- SMB can be found on port 445\.
+- SMB can be found on port 445\.
 
-* Server Message Block (SMB) is a communication protocol\[1\] originally developed in 1983 by Barry A. Feigenbaum at IBM\[2\] and intended to provide shared access to files and printers across nodes on a network of systems running IBM's OS/2. It also provides an authenticated inter-process communication (IPC) mechanism.
+* Server Message Block (SMB) is a communication protocol[1\] originally developed in 1983 by Barry A. Feigenbaum at IBM\[2\] and intended to provide shared access to files and printers across nodes on a network of systems running IBM's OS/2. It also provides an authenticated inter-process communication (IPC) mechanism.
 
 ## **Syn Scan in Nmap: A Closer Look**
 
